@@ -5,7 +5,6 @@ package mdns
 import (
 	"net"
 
-	//"github.com/miekg/dns"
 	"github.com/miekg/dns"
 	"github.com/pkg/errors"
 )
